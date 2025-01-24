@@ -67,7 +67,7 @@ xt26 nand flash 有坏块，使用的只读文件根系统squashfs，不支持�
 ![image](https://github.com/user-attachments/assets/597b4110-497b-4be8-bcf6-8ab081d7fdb8)
 
 code patch：
-jump_badblock.patch
+路劲：./tmp/jump_badblock.patch
 
  
 
